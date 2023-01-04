@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\bin\Debug\net6.0\EmployeeWageComputation.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\refint\EmployeeWageComputation.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\EmployeeWageComputation.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\EmployeeWageComputationDotNet\EmployeeWageComputationCsharp\EmployeeWageComputation\obj\Debug\net6.0\ref\EmployeeWageComputation.dll
