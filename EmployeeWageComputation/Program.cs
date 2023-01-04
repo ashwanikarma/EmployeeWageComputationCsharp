@@ -10,13 +10,11 @@
         static void Main(string[] args)
         {
             int empHrs = 0;
-            int empWage = 0;
             int totalEmpWage = 0;
-            int days = 0;
+            int days = 1;
             int totalHrs = 0;
-            while (days < 20 && totalHrs < 100)
+            while (days <= 20 && totalHrs < 100)
             {
-                days++;
                 Random random = new Random();
                 int empCheck = random.Next(0, 3);
                 switch (empCheck)
@@ -33,12 +31,14 @@
                         Console.WriteLine("Employee is Absent");
                         empHrs = 0;
                         break;
-                }
-                empWage = empHrs * EMP_RATE_PER_HOUR;
+                }                
                 totalHrs += empHrs;
-                totalEmpWage+= empWage;
+                Console.WriteLine("Day : "+days+" Emp hrs : "+empHrs);
+                days++;                
             }
+            totalEmpWage = totalHrs * EMP_RATE_PER_HOUR;
             Console.WriteLine("Total Employee Wage : "+totalEmpWage);
+            
         }
     }
 }
