@@ -12,8 +12,11 @@
             int empHrs = 0;
             int empWage = 0;
             int totalEmpWage = 0;
-            for (int day = 0; day < EMP_TOTAL_WORKING_DAY; day++)
+            int days = 0;
+            int totalHrs = 0;
+            while (days < 20 && totalHrs < 100)
             {
+                days++;
                 Random random = new Random();
                 int empCheck = random.Next(0, 3);
                 switch (empCheck)
@@ -32,6 +35,7 @@
                         break;
                 }
                 empWage = empHrs * EMP_RATE_PER_HOUR;
+                totalHrs += empHrs;
                 totalEmpWage+= empWage;
             }
             Console.WriteLine("Total Employee Wage : "+totalEmpWage);
