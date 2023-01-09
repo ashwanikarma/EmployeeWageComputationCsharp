@@ -7,7 +7,7 @@
         public const int IS_PART_TIME = 1;
         public const int EMP_RATE_PER_HOUR = 20;
         public const int EMP_TOTAL_WORKING_DAY = 20;
-        static void Main(string[] args)
+        public static void computeEmpWage()
         {
             int empHrs = 0;
             int totalEmpWage = 0;
@@ -38,7 +38,11 @@
             }
             totalEmpWage = totalHrs * EMP_RATE_PER_HOUR;
             Console.WriteLine("Total Employee Wage : "+totalEmpWage);
-            
+          //  return totalEmpWage;
+        }
+        static void Main(string[] args)
+        {
+            computeEmpWage();
         }
     }
 }
